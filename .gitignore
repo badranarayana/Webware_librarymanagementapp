@@ -1,0 +1,11 @@
+*~
+*.address
+*.bak
+*.default
+*.log
+*.patch
+*.pid*.pstats
+*.pyc
+*.pyo
+*.ses
+*.swp
